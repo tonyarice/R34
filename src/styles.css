@@ -87,9 +87,18 @@ a:hover {
     padding-right: 75px; 
 }
 
+.marker-section-right h1 {
+    /* padding-right: 300px; */
+    font-size: 35px;
+    /* font-weight: 500; */
+    /* padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px; */   
+}
+
 .marker-section-right p {
     /* padding-right: 300px; */
-    font-size: 16px;
+    font-size: 14px;
     /* font-weight: 500; */
     /* padding-top: 25px;
     padding-left: 150px;
